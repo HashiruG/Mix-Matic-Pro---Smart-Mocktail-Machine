@@ -12,19 +12,22 @@ Mix Matic Pro is a smart IoT device that enables users to enjoy their favorite m
 
 ## Proposed Solution
 
-![Proposed Solution](./assets/Solution.png)
+![Proposed Solution](./Assets/Solution.png)
 
 ## Exterior View
 
-![Exterior view](./assets/img-ext.jpg)
+![Exterior view](./Assets/img-ext.jpg)
 
 ## Web App
 
-![Signin](./assets/SigninDesktop.png)
-![Menu](./assets/MenuDesktop.png)
+![Signin](./Assets/SigninDesktop.png)
+![Menu](./Assets/MenuDesktop.png)
 
 [GitHub Repository for Web App](https://github.com/HashiruG/mixmatic-web)  
-[Live Web App Link](https://mixmatic-pro.vercel.app/)
+[Live Web App Link](https://mixmatic-pro.vercel.app/)<br><br>
+Use the following credentials to sign in:
+- **Email:** test@email.com
+- **Password:** 1234
 
 ## 3D Design for Capsule Mechanism
 
@@ -40,7 +43,7 @@ Mix Matic Pro is a smart IoT device that enables users to enjoy their favorite m
 - Chamitha Thambiliyagoda
 - TRF Hafza
 
-![Group](./assets/Group.jpg)
+![Group](./Assets/Group.jpg)
 
 ## Links to Testing Videos
 
